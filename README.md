@@ -2,7 +2,7 @@
 A framework to train and optimize light convolutional networks, also includes a very fast Chainer/Cupy training using extreme learning machine as output layer
 
 Run directly in Google Colab: 
-<a href="https://colab.research.google.com/github.com/radu-dogaru/LB-CNN-compact-and-fast-binary-including-very-fast-ELM/blob/main/LB_CNN_optimizer_trainer.ipynb">
+<a href="https://colab.research.google.com/github/radu-dogaru/LB-CNN-compact-and-fast-binary-including-very-fast-ELM/blob/main/LB_CNN_optimizer_trainer.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
