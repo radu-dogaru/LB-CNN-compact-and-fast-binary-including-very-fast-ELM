@@ -10,7 +10,7 @@ Run directly in Google Colab:
 **Code in support of the paper:**
 
 Radu Dogaru, Ioana Dogaru, "LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy",
-submitted IEEE Trans. on Industry Applications. 
+https://arxiv.org/ftp/arxiv/papers/2106/2106.15350.pdf
 
 **Other relevant papers:** 
 
